@@ -19,5 +19,5 @@ Where am I?
   
   e. 图片：<img width="644" alt="image" src="https://user-images.githubusercontent.com/59214965/166408879-395e6df0-50e0-4536-97c2-602fb04bf31d.png">
 
-   ![This is a bass](https://tacklevillage.com/wp-content/uploads/2020/06/shutterstock_1362521111-1-2048x1295.jpg?ezimgfmt=ng%3Awebp%2Fngcb97%2Frs%3Adevice%2Frscb97-1)
+   ![This is a bass](https://tacklevillage.com/wp-content/uploads/2020/06/shutterstock_1362521111-1-2048x1295.jpg?ezimgfmt=ng%3Awebp%2Fngcb97%2Frs%3Adevice%2Frscb97-1#gh-dark-mode-only)
    
