@@ -6,14 +6,9 @@ What am I doing?
 Where am I?
 
 ## 1. Github pages的文本语法：https://docs.github.com/cn/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
-
   a. 标题：“#” 的数量决定了标题的大小
-  
 <img width="701" alt="截屏2022-05-03 上午12 08 39" src="https://user-images.githubusercontent.com/59214965/166406917-6920f6db-8f74-4db7-a37c-bac3a61fbba6.png">
-
-  b. 样式文本：
-  <img width="699" alt="截屏2022-05-03 上午12 12 44" src="https://user-images.githubusercontent.com/59214965/166407192-d7603abb-15b6-42ed-9685-a03f800c759f.png">
-  
+  b. 样式文本：<img width="699" alt="截屏2022-05-03 上午12 12 44" src="https://user-images.githubusercontent.com/59214965/166407192-d7603abb-15b6-42ed-9685-a03f800c759f.png">
    c. 引用文本：“>"
   this is not a qupte
   > this is a qupte
@@ -31,3 +26,16 @@ Where am I?
   1. 我是第一列
      - 这是第二？
        - 这是第三？
+         - what else？
+ 
+   g. task list:
+   
+<img width="666" alt="截屏2022-05-03 上午12 48 44" src="https://user-images.githubusercontent.com/59214965/166409519-3d7841cd-e524-4205-a738-5def9a85f774.png">
+   h:emojicode(:)
+   
+   i:脚注footnote：
+   <img width="656" alt="截屏2022-05-03 上午12 50 52" src="https://user-images.githubusercontent.com/59214965/166409681-a668569a-bf35-4665-83ae-06fdd877ac1c.png">
+
+    j： \规避格式\
+    
+    
