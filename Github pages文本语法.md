@@ -12,7 +12,12 @@ Where am I?
    c. 引用文本：“>"
   this is not a qupte
   > this is a qupte
-   d. 链接：把链接文本包含在方括号内[]，把url包含在（）；快捷键= comman+k；[my blog](https://github.com/pipidanlanhua/p_j_z.github.io)
-   e. 图片：
-  ![This is a bass](https://tacklevillage.com/wp-content/uploads/2020/06/shutterstock_1362521111-1-2048x1295.jpg?ezimgfmt=ng%3Awebp%2Fngcb97%2Frs%3Adevice%2Frscb97-1)
+ 
+   d. 链接：把链接文本包含在方括号内[]，把url包含在（）；快捷键= comman+k；
+   
+   [my blog](https://github.com/pipidanlanhua/p_j_z.github.io)
+  
+  e. 图片：<img width="644" alt="image" src="https://user-images.githubusercontent.com/59214965/166408879-395e6df0-50e0-4536-97c2-602fb04bf31d.png">
+
+   ![This is a bass](https://tacklevillage.com/wp-content/uploads/2020/06/shutterstock_1362521111-1-2048x1295.jpg?ezimgfmt=ng%3Awebp%2Fngcb97%2Frs%3Adevice%2Frscb97-1)
    
