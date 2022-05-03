@@ -13,5 +13,6 @@ Where am I?
   this is not a qupte
   > this is a qupte
    d. 链接：把链接文本包含在方括号内[]，把url包含在（）；快捷键= comman+k；[my blog](https://github.com/pipidanlanhua/p_j_z.github.io)
-  ![bass](https://www.google.com/search?q=bass&newwindow=1&source=lnms&tbm=isch&sa=X&ved=2ahUKEwinwIWLzML3AhXHVs0KHYLPCogQ_AUoAXoECAMQAw&biw=688&bih=821&dpr=2#imgrc=sf4dRsSjoPnJ4M&imgdii=7Gl9lA9rnr4BKM)
+   e. 图片：
+  ![This is a bass](https://tacklevillage.com/wp-content/uploads/2020/06/shutterstock_1362521111-1-2048x1295.jpg?ezimgfmt=ng%3Awebp%2Fngcb97%2Frs%3Adevice%2Frscb97-1)
    
