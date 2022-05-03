@@ -1,2 +1,4 @@
 # p_j_z.github.io
-pipidan
+What is this place?
+
+What am I doing?
